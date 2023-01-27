@@ -1,0 +1,4 @@
+{
+    "workbench.colorTheme": "greenery",
+    "python.formatting.provider": "black"
+}
